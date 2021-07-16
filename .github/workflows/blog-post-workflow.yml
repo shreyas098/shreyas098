@@ -2,7 +2,7 @@ name: Latest medium blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '30 13 */30 * *'
   workflow_dispatch:
 
 jobs:
