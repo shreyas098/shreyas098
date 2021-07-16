@@ -1,18 +1,19 @@
 # Hi there, I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShreyashShetty-blue?style=for-the-badge&logo=Linkedin&logoColor=white)][linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-shreyashshetty1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)][gmail]
+[![Linkedin Badge](https://img.shields.io/badge/-Shreyash Shetty-blue?style=for-the-badge&logo=Linkedin&logoColor=white)][linkedin]
+[![Gmail Badge](https://img.shields.io/badge/-shreyashshetty1997@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)][gmail]
+[![Medium Badge](https://img.shields.io/badge/-Shreyash.com-c14438?style=for-the-badge&logo=Medium&logoColor=white)][medium]
 
-## About Me 🤯
+## About Me :man-shrugging:
 
 - :computer: I am a Developer from India.
-- 👨‍💻 Currently, I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" width="22px" alt= "kiprosh"> Kiprosh
+- 👨‍💻 Currently, I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:0.5rem" width="22px" alt= "kiprosh"> Kiprosh
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Open source Developers
 - 🥅 Future Goals: Contribute more to Open Source projects and be a better problem solver
 - ⚡ Fun fact: I love to read books and play cricket/chess
-- Feel free to connect me with sources given below :smile:
+-  Feel free to connect me with sources given below :smile:
 
 ### Connect with me:
 
@@ -42,12 +43,10 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.shreyas098.vercel.app/api?username=shreyas098&show_icons=true&hide=[%22issues%22]" />
+### :zap: GitHub Stats
+  <img align="left" alt="shreyas098's GitHub Stats" src="https://github-readme-stats.shreyas098.vercel.app/api?username=shreyas098&show_icons=true&hide=[%22issues%22]" />
 
-</details>
 
 ![](https://komarev.com/ghpvc/?username=shreyas098&color=blueviolet)
 
