@@ -54,6 +54,9 @@
 ### 📕 Latest Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practises of Closure Actions in Ember](https://shreyashshetty.medium.com/best-practises-of-closure-actions-in-ember-61c5953f3b1d?source=rss-2446d2fc7085------2)
+- [Complex Use Cases and Examples of ES6 Destructuring in JavaScript.](https://shreyashshetty.medium.com/complex-use-cases-and-examples-of-es6-destructuring-in-javascript-afc00726213e?source=rss-2446d2fc7085------2)
+- [Create a Pill Button with different div and background](https://shreyashshetty.medium.com/create-a-pill-button-with-different-div-and-background-9dc772db336b?source=rss-2446d2fc7085------2)
 <!-- BLOG-POST-LIST:END -->
 
 
