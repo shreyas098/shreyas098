@@ -6,11 +6,11 @@
 ## About Me 🤷‍♂️
 
 - I am a Developer from India :computer: .
--  I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:5.5rem" width="22px" alt= "kiprosh"> Kiprosh[company] 👨‍💻 .
+-  I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:5.5rem" width="22px" alt= "kiprosh"> [Kiprosh][company] 👨‍💻 .
 - I’m currently learning everything 🤣 .
 - I’m looking to collaborate with anyone on any project 👯 .
-- Future Goals 🥅 : Contribute more to Open Source projects and be a better problem solver
-- Fun fact ⚡ : I love to read books and play cricket/chess.
+- Future Aspiration : Contribute more to Open Source projects and be a better problem solver
+- Fun Fact : I love to play cricket 🏏 and chess♟️.
 
 ## :email: Find me on:
 
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-## 🧰  Languages and Tools I love :
+## 🧰  Languages and Tools I know about :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-## 🚀  Frameworks I worked with :
+## 🚀  Frameworks I love to work with :
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -48,6 +48,13 @@
 <img align="left" alt="Ruby on Rails" width="26px" src="https://avatars.githubusercontent.com/u/4223?s=200&;v=4" />
 <br/>
 <br/>
+
+---
+
+### 📕 Latest Medium Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!-- ### :zap: GitHub Stats
