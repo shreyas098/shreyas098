@@ -1,14 +1,16 @@
 name: Latest medium blog post workflow
 on:
   schedule:
-      # Runs at every 2 days. Schedule it as you want.
-      - cron: '0 0 */2 * *'
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-readme-with-blog:
+    name: Update this repo's README with latest medium blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: wathsara/medium-blogs-readme@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          MEDIUM_HANDLER: '@shreyashshetty' //Your Medium Handler
-          REPOSITORY: shreyas098/shreyas098
+          feed_list: "https://medium.com/feed/@shreyashshetty"
