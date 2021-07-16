@@ -20,7 +20,8 @@
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
-<br />
+<br/>
+<br/>
 
 ## 🧰  Languages and Tools I love :
 
@@ -36,15 +37,17 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+<br/>
+<br/>
 
 ## 🚀  Frameworks I worked with :
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Ember" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ember/ember.png" />
-<img align="left" alt="Ruby on Rails" width="26px" src="hhttps://avatars.githubusercontent.com/u/4223?s=200&amp;v=4" />
-<br />
+<img align="left" alt="Ruby on Rails" width="26px" src="https://avatars.githubusercontent.com/u/4223?s=200&;v=4" />
+<br/>
+<br/>
 
 
 <!-- ### :zap: GitHub Stats
