@@ -59,11 +59,13 @@
 - [Create a Pill Button with different div and background](https://shreyashshetty.medium.com/create-a-pill-button-with-different-div-and-background-9dc772db336b?source=rss-2446d2fc7085------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 ### :zap: GitHub Stats
   <img align="left" alt="shreyas098's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shreyas098&show_icons=true&hide=[%22issues%22]" />
 
-
+<br/>
+<br/>
 ![](https://komarev.com/ghpvc/?username=shreyas098&color=blueviolet)
 
 [twitter]: https://twitter.com/shetty_shrey
