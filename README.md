@@ -1,32 +1,10 @@
 # Hi there, I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<img src = 'https://github.com/shreyas098/shreyas098/blob/master/images/page.gif' width='500' height='350' alt = 'Hi' align='right'/>
+<img src = 'https://github.com/shreyas098/blob/master/shreyas098/images/page.gif' width='500' height='350' alt = 'Hi' align='right'/>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-shreyashshetty1997@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)][gmail]
 
-## :email: Find me on :
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-
-<br/>
-<br/>
-
-## About Me 🤷‍♂️
-
-- I am a Developer from India :computer: .
-- I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:5.5rem" width="22px" alt= "kiprosh"> [Kiprosh][company] 👨‍💻 .
-- I’m currently learning everything 🤣 .
-- I’m looking to collaborate with anyone on any project 👯 .
-- Future Aspiration : Contribute more to Open Source projects and be a better problem solver
-- Fun Fact : I love to play cricket 🏏 and chess♟️.
-
-<br/>
-<br/>
 
 ## 🧰  Languages and Tools I know about :
 
@@ -45,6 +23,17 @@
 <br/>
 <br/>
 
+## :email: Find me on :
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+
+<br/>
+<br/>
+
 ## 🚀  Frameworks I love to work with :
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -53,6 +42,16 @@
 <img align="left" alt="Ruby on Rails" width="26px" src="https://avatars.githubusercontent.com/u/4223?s=200&;v=4" />
 <br/>
 <br/>
+
+
+## About Me 🤷‍♂️
+
+- I am a Developer from India :computer: .
+-  I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:5.5rem" width="22px" alt= "kiprosh"> [Kiprosh][company] 👨‍💻 .
+- I’m currently learning everything 🤣 .
+- I’m looking to collaborate with anyone on any project 👯 .
+- Future Aspiration : Contribute more to Open Source projects and be a better problem solver
+- Fun Fact : I love to play cricket 🏏 and chess♟️.
 
 ---
 
