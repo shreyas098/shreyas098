@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<!-- ### :zap: GitHub Stats
-  <img align="left" alt="shreyas098's GitHub Stats" src="https://github-readme-stats.shreyas098.vercel.app/api?username=shreyas098&show_icons=true&hide=[%22issues%22]" /> -->
+### :zap: GitHub Stats
+  <img align="left" alt="shreyas098's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shreyas098&show_icons=true&hide=[%22issues%22]" />
 
 
 ![](https://komarev.com/ghpvc/?username=shreyas098&color=blueviolet)
