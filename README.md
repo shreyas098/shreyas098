@@ -1,5 +1,3 @@
-<!-- <img src = 'https://github.com/shreyas098/shreyas098/blob/master/images/page.gif' height='350' alt = 'Hi' align='right'/> -->
-
 # Hi there, I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img src = 'https://github.com/shreyas098/shreyas098/blob/master/images/page.gif' width='450' height='300' alt = 'Hi' align='right'/>
@@ -11,9 +9,13 @@
 
 - I am a Developer from India :computer: .
 - I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:5.5rem" width="22px" alt= "kiprosh"> [Kiprosh][company] 👨‍💻 .
+
 - I am currently learning everything 🤣 .
+
 - I am looking to collaborate with anyone on any project 👯 .
+
 - Future Aspiration : Contribute more to Open Source projects and be a better problem solver
+
 - Fun Fact : I love to play cricket 🏏 and chess♟️.
 
 ## :email: Find me on :
