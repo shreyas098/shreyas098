@@ -5,7 +5,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-shreyashshetty1997@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)][gmail]
 
-## About Me 🤷‍♂️
+## About Me <img src = "https://emojis.slackmojis.com/emojis/images/1597609813/10031/60fps_parrot.gif?1597609813"  width="28px" alt="intro"/> :
 
 - I am a Developer from India :computer: .
 - I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:5.5rem" width="22px" alt= "kiprosh"> [Kiprosh][company] 👨‍💻 .
