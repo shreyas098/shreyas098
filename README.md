@@ -62,11 +62,22 @@
 ---
 
 ### :zap: GitHub Stats
-  <img align="left" alt="shreyas098's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shreyas098&show_icons=true&hide=[%22issues%22]" />
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
 
 <br/>
+</td></tr></table>
+
 <br/>
-![](https://komarev.com/ghpvc/?username=shreyas098&color=blueviolet)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=shreyas098&style=flat-square&color=blueviolet)
 
 [twitter]: https://twitter.com/shetty_shrey
 [facebook]: https://www.facebook.com/shreyash.shetty.56/
