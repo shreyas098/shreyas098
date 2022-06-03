@@ -1,14 +1,14 @@
-# Hi there, I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="introGif">
+# Hi there, I'm Shreyash 👋
 
 <img src = 'https://github.com/shreyas098/shreyas098/blob/master/images/page.gif' width='450' height='300' alt = 'Hi' align='right'/>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-shreyashshetty1997@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)][gmail]
 
-## About Me <img src = "https://emojis.slackmojis.com/emojis/images/1597609813/10031/60fps_parrot.gif?1597609813"  width="28px" alt="intro"/> :
+## About Me !!:
 
 - I am a Developer from India :computer: .
-- I am working as a Full Stack Developer at <img src="https://avatars.githubusercontent.com/u/6614976?s=200&v=4" style="margin-top:5.5rem" width="22px" alt= "kiprosh"> [Kiprosh][company] 👨‍💻 .
+- I am working as a Full Stack Developer at <img src="https://media-exp2.licdn.com/dms/image/C560BAQEHCTk_-2ifGQ/company-logo_100_100/0/1651209707587?e=1662595200&v=beta&t=uofDH1yY2cdCK4unEOfAbt2PeOWmOe97F7wB5ScYJJQ" style="margin-top:5.5rem" width="22px" alt= "JIO"> [Reliance JIO][company] 👨‍💻 .
 
 - I am currently learning everything 🤣 .
 
@@ -89,4 +89,4 @@
 [medium]: https://shreyashshetty.medium.com/about
 [gmail]: mailto:shreyashshetty1997@gmail.com
 [stackoverflow]: https://stackoverflow.com/users/11657599/shreyash-shetty
-[company]: https://kiprosh.com/
+[company]: https://jio.com/
