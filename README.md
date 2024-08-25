@@ -8,7 +8,7 @@
 ## About Me !!:
 
 - I am a Developer from India :computer: .
-- I am working as a Full Stack Developer at <img src="https://media-exp2.licdn.com/dms/image/C560BAQEHCTk_-2ifGQ/company-logo_100_100/0/1651209707587?e=1662595200&v=beta&t=uofDH1yY2cdCK4unEOfAbt2PeOWmOe97F7wB5ScYJJQ" style="margin-top:5.5rem" width="22px" alt= "JIO"> [Reliance JIO][company] 👨‍💻 .
+- I am working as a Full Stack Developer at <img src="https://cdn.prod.website-files.com/5f2bd20de11b965424e6cb83/5f488d318fc20ea7c2b08549_FYNDDDD.svg" style="margin-top:5.5rem" width="22px" alt= "Fynd"> [Fynd][company] 👨‍💻 .
 
 - I am currently learning everything 🤣 .
 
@@ -89,4 +89,4 @@
 [medium]: https://shreyashshetty.medium.com/about
 [gmail]: mailto:shreyashshetty1997@gmail.com
 [stackoverflow]: https://stackoverflow.com/users/11657599/shreyash-shetty
-[company]: https://jio.com/
+[company]: https://fynd.com/
